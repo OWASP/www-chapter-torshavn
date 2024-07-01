@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Torshavn
 tags: example-tag
 region: Europe
-country: Faore Islands
+country: Faroe Islands
 meetup-group:
 
 ---
