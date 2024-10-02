@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Torshavn
-tags: past-events
+tags: pastevents
 region: Europe
 country: Faroe Islands
 meetup-group:
