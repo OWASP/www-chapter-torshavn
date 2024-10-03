@@ -40,5 +40,3 @@ This talk provides an introduction to application security from a developer and 
 
 **Location**
 Cantine facility at Klintra, Heykavegur 4, FO 100 Tórshavn
-
-<!-- {% include chapter_events.html group=page.meetup-group %} -->
