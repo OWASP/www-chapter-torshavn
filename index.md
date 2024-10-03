@@ -23,4 +23,22 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+
+### Friday, October 04, 2024, 1400-1500  
+#### Introduction to Application Security
+
+This talk provides an introduction to application security from a developer and tester perspective. Key topics include:
+
+- The CIA Triad (Confidentiality, Integrity, Availability)
+- Practical implementation of CIA Triad principles
+- Overview of SAMM (Software Assurance Maturity Model)
+- Introduction to the OWASP Top 10 vulnerabilities
+- Examples of exploit from the OWASP Top 10, demonstrated using Juice Shop
+
+**Speaker**
+[[Teitur Arge Seloy](http://linkedin.com/in/teitur-arge-seloy)]
+
+**Location**
+Cantine facility at Klintra, Heykavegur 4, FO 100 Tórshavn
+
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
