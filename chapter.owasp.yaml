@@ -1,0 +1,25 @@
+leaders:
+  - name: Eyðun Jacobsen
+    email: eyun.ejacobsen@owasp.org
+    github: eydunjacobsen
+  - name: Oluf Faroe
+    email: oluf.faroe@owasp.org
+  - name: Teitur Arge Seloy
+    email: teitur.argeseloy@owasp.org
+location:
+  country: Denmark
+  country_code: DK
+  region: Faroe Islands
+  city: Torshavn
+  latitude: 62.012
+  longitude: -6.768
+name: OWASP Torshavn
+repositories:
+  - name: www-chapter-torshavn
+    url: https://github.com/OWASP/www-chapter-torshavn
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-torshavn
